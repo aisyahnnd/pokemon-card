@@ -20,10 +20,10 @@ function PokemonCardCompact({ name, weight, imageUrl }) {
         }}
       >
         <Text>
-          <strong>Name:</strong> ....
+          <strong>Name:</strong> Sawitri Fina Kartika
         </Text>
         <Text>
-          <strong>Department:</strong> ....
+          <strong>Department:</strong> Solution Delivery AT
         </Text>
       </div>
     </Card>
