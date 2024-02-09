@@ -20,10 +20,10 @@ function PokemonCardClassic({ name, weight, imageUrl }) {
         }}
       >
         <Text>
-          <strong>Name:</strong> ....
+          <strong>Name:</strong> Farah Fitriavida
         </Text>
         <Text>
-          <strong>Department:</strong> ....
+          <strong>Department:</strong> Solution Delivery FP
         </Text>
       </div>
     </Card>
