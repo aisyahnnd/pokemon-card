@@ -32,10 +32,10 @@ function PokemonCardModern({ name, weight, imageUrl }) {
         }}
       >
         <Text>
-          <strong>Name:</strong> ....
+          <strong>Name:</strong> Diki Fauzi
         </Text>
         <Text>
-          <strong>Department:</strong> ....
+          <strong>Department:</strong> Diki Fauzi
         </Text>
       </div>
     </Card>
